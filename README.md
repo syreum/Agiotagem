@@ -10,6 +10,7 @@
 - **God Mode**
 - **Auto Kill All (Agiota)**
 - **Auto Kill Agiota (Policia/Police)**
+- **And More**
 
 
 (**talvez eu nao atualize o script/maybe i dont update the script**)
